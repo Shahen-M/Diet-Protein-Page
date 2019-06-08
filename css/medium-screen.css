@@ -1,0 +1,24 @@
+@media (min-width: 768px) {
+  h1 {
+    font-size: 35px;
+  }
+
+  .fruit_right_content {
+    margin: 0 auto;
+  }
+
+  .fruit_right_content p {
+    font-size: 18px;
+  }
+
+  .fruit ul li {
+    list-style: none;
+    font-size: 17px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+
+}
